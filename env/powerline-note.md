@@ -18,7 +18,7 @@ Select `vim.nox`
 $ git clone https://github.com/Lokaltog/powerline.git
 $ sudo su
 # cd powerline
-# ./setup.py install
+# python ./setup.py install
 ```
 
 **Add these two lines to `.vimrc`**
