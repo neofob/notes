@@ -40,6 +40,7 @@ you can use my [`docker_save.sh`][0] script to save and load them.
 
 ###5. Restart your docker daemon
 ```
+# systemctl daemon-reload
 # service docker start
 ```
 
