@@ -1,0 +1,10 @@
+<app_config>
+  <app>
+    <name>milkyway</name>
+    <max_concurrent>4</max_concurrent>
+    <gpu_versions>
+      <gpu_usage>0.25</gpu_usage>
+      <cpu_usage>0.75</cpu_usage>
+    </gpu_versions>
+  </app>
+</app_config>
