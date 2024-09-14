@@ -12,4 +12,5 @@ Domains=
 * Fix the symbolic link of `/etc/resolv.conf` to point to the right one
 * `ln -sf /run/systemd/resolve/resolv.conf /etc/resolv.conf`
 * Restart service `service systemd-resolved restart`
+
 *Now you should see your set DNS in /etc/resolv.conf*.
