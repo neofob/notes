@@ -1,3 +1,10 @@
+### Install virtualbox
+Required package:
+```
+apt-get install libqt5xml5 libqt5help5 libqt5opengl5 libqt5printsupport5
+```
+
+
 ### Make virtual disk more compressible
 
 This zeros out the unused inodes to make the virtual disk more compressible.
