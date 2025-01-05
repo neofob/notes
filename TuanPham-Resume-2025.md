@@ -12,8 +12,7 @@ tuan@vt.edu
 * **Applications:** Docker, Kubernetes (k3s, k9s), Open Source tools, git, virtualbox/vagrant, Grafana, ELK stack, OpenWRT, Gitlab pipelines, privateGPT, ollama, whisper.cpp
 
 # EXPERIENCE
-**NALEJ LLC, Virginia** - Senior DevSecOps Engineer
-
+## **NALEJ LLC, Virginia** - Senior DevSecOps Engineer
 JANUARY 2023 - PRESENT
 * Deploy and troubleshoot Kubernetes and Docker softwares in airgap/classified network environment
 * Configure and deploy Opensource OpenVPN and Pihole containers in private network
@@ -26,8 +25,7 @@ JANUARY 2023 - PRESENT
 * Write scripts and Gitlab pipelines to automate package build
 * Support 3 BRAVO Hackathons organized by the Airforce of the U.S.A.
 
-**Greenfly SAU., LLC., Falls Church, Virginia** - Senior DevOps Engineer
-
+## **Greenfly SAU., LLC., Falls Church, Virginia** - Senior DevOps Engineer
 OCTOBER 2021 - JANUARY 2023
 
 Greenfly specializes in providing DevOps subject matter expertise on contracts to the Federal Government, including DoD/DARPA and NSF
@@ -36,8 +34,7 @@ Greenfly specializes in providing DevOps subject matter expertise on contracts t
 * Linux virtualization: KVM, Xen, virsh, boot/disk control
 * Network: RTP packet generation and control, DDgen, scapy, tcpdump analysis
 
-**Self-employed, Virginia** - DevOps Engineer
-
+## **Self-employed, Virginia** - DevOps Engineer
 OCTOBER 2017 - OCTOBER 2021
 * Write Ansible roles, playbooks to deploy softwares
 * Write Logstash configs to process telecoms logging data
@@ -45,8 +42,7 @@ OCTOBER 2017 - OCTOBER 2021
 * Deploy & configure ELK stack
 * Dockerize microservices for telecommunication softwares
 
-**Apogee Research, LLC., Arlington, Virginia** - Senior Research Engineer
-
+## **Apogee Research, LLC., Arlington, Virginia** - Senior Research Engineer
 JANUARY 2015 - OCTOBER 2017
 * **PlanX Program:**
 	* Design, code, and deploy Graphite/Grafana Dashboards
@@ -57,20 +53,17 @@ JANUARY 2015 - OCTOBER 2017
 	* Using and contributed to CRIU (CheckpointRestart in Userspace)
 	* Debugging and fixing PARSEC 2.1 C/C++ code base and other thread/process issues
 
-**Dell Inc., AppAssure, Blacksburg, Virginia** - Software Developer
-
+## **Dell Inc., AppAssure, Blacksburg, Virginia** - Software Developer
 NOVEMBER 2012 - DECEMBER 2013
 
 Work on software AppAssure (later known as Rapid Recovery) that provides transparent backup solution on Windows and Linux platform with incremental backup and migration of data via virtual machine export.  
-  
 * Optimize code dealing with ext3/4 filesystem bitmap
 * Write unit tests in userspace to test Linux kernel module source [propriety source]
 * Debug and fix memory corruption bug in Linux kernel module [propriety source]
 * Provide customized vagrant boxes to test and support different customer environment setups
 * Write shell and Python scripts to run unit tests on vagrant boxes and VMware machines
 
-**Adobe Systems, Virginia** - Software Engineer
-
+## **Adobe Systems, Virginia** - Software Engineer
 FEBUARY 2011 - NOVEMBER 2012
 
 Worked on Adobe Insight (later known as Adobe Data Workbench).
@@ -80,20 +73,17 @@ Worked on Adobe Insight (later known as Adobe Data Workbench).
 * Implement a depth-first-search feature on a schema diagram and display it using OpenGL  
 * Convert legacy C++ string functions to standard modern-day C++ string
 
-**Digital Receiver Technology Inc, Maryland** - Embedded Software Engineer
-
+## **Digital Receiver Technology Inc, Maryland** - Embedded Software Engineer
 APRIL 2010 - NOVEMBER 2010
 * Merge SVN branches
 * Debug softwares for Inmarsat and EVDO radio formats
 * Design and implement Unit Tests for C++ code using Ruby
 
-**Horse Manure Central, Blacksburg, Virginia** - Manure Spotter
-
+## **Horse Manure Central, Blacksburg, Virginia** - Manure Spotter
 NOVEMBER 2009 - APRIL 2010
 * Spot, shovel, and redistribute horse manure from horse stable to needed gardens.
 
-**LIBRATO Inc., Blacksburg, Virginia** - Software Engineer
-
+## **LIBRATO Inc., Blacksburg, Virginia** - Software Engineer
 OCTOBER 2005 - NOVEMBER 2009
 * Investigate, design, and implement transparent checkpoint/restart for POSIX Threads at user-level using `LD_PRELOAD` technique
 * Co-design and implement transparent checkpoint/restart features for file system inode-related functions and file stream functions working in multiprocess and multithread environment
