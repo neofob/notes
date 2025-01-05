@@ -21,7 +21,7 @@ JANUARY 2023 - PRESENT
 * Reverse-engineer DOD-ADVANA/GAMECHANGER to make it to work as stated in README files.  
 * Write scripts to automate package build for airgapped deployment  
 * Write scripts and Gitlab pipelines to automate package build
-* Support 3 U.S. Airforce BRAVO Hackathons
+* Support 3 BRAVO Hackathons organized by the Airforce of the U.S.A.
 
 **Greenfly SAU., LLC., Falls Church, Virginia** - Senior DevOps Engineer
 OCTOBER 2021 - JANUARY 2023
