@@ -29,6 +29,7 @@ JANUARY 2023 - PRESENT
 **Greenfly SAU., LLC., Falls Church, Virginia** - Senior DevOps Engineer
 
 OCTOBER 2021 - JANUARY 2023
+
 Greenfly specializes in providing DevOps subject matter expertise on contracts to the Federal Government, including DoD/DARPA and NSF
 * DevOps tools: Ansible, Vagrant, MaaS auto-generation and manual control
 * Monitoring/visualization: Elastic, rsyslog, logstash transforms
@@ -59,6 +60,7 @@ JANUARY 2015 - OCTOBER 2017
 **Dell Inc., AppAssure, Blacksburg, Virginia** - Software Developer
 
 NOVEMBER 2012 - DECEMBER 2013
+
 Work on software AppAssure (later known as Rapid Recovery) that provides transparent backup solution on Windows and Linux platform with incremental backup and migration of data via virtual machine export.  
   
 * Optimize code dealing with ext3/4 filesystem bitmap
@@ -70,6 +72,7 @@ Work on software AppAssure (later known as Rapid Recovery) that provides transpa
 **Adobe Systems, Virginia** - Software Engineer
 
 FEBUARY 2011 - NOVEMBER 2012
+
 Worked on Adobe Insight (later known as Adobe Data Workbench).
 * Debug, fix, support legacy shared libraries on Linux, AIX..etc  
 * Improve scalability of legacy shared libraries by using libatomic_ops
