@@ -98,12 +98,8 @@ Contributed to OSSIE project in MPRG at Virginia Tech, Collegiate Times Associat
 Cycling organizer of Cycling Meetup group, running, translating English articles to Vietnamese (scribd.com/neofob), computer hardware hobbyist. Rode my bicycle self-supported across the country from Blacksburg, VA to Astoria, OR using TransAm Route 76 (https://github.com/neofob/TransAmerica)
 
 Contributed to https://github.com repositories:
-* neofob/{tscripts, pp-code-metrics, compose-openvpn, ansible-playbook, apt-mirror-docker, compose-monitor, privateGPT}
-* ccwienk/temper
-* replay/perfmetrics
-* checkpoint-restore/criu
-* gocd/docker-gocd-{agent, server}
-* LibreELEC/LibreELEC.tv
+* neofob/{tscripts, pp-code-metrics, compose-openvpn, ansible-playbook, apt-mirror-docker, compose-monitor, privateGPT, compose-traefik}
+* ccwienk/temper, replay/perfmetrics, checkpoint-restore/criu, gocd/docker-gocd-{agent, server}, LibreELEC/LibreELEC.tv
 
 # EDUCATION
 Virginia Polytechnic Institute & State University (Virginia Tech), Blacksburg, Virginia - B.S., Computer Science MAY 2004
