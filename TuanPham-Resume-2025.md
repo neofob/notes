@@ -12,8 +12,12 @@ tuan@vt.edu
 * **Applications:** Docker, Kubernetes (k3s, k9s), Open Source tools, git, virtualbox/vagrant, Grafana, ELK stack, OpenWRT, Gitlab pipelines, privateGPT, ollama, whisper.cpp
 
 # EXPERIENCE
+## **Two Six Technologies, Virginia** - Senior DevSecOps Engineer
+MARCH 2025 - PRESENT
+* Providing DevSecOps service in airgap environment
+
 ## **NALEJ LLC, Virginia** - Senior DevSecOps Engineer
-JANUARY 2023 - PRESENT
+JANUARY 2023 - MARCH 2025
 * Deploy and troubleshoot Kubernetes and Docker softwares in airgap/classified network environment
 * Configure and deploy Opensource OpenVPN and PiHole containers in private network
 * Automate deployment NVIDIA GPU Container runtime in Windows with Podman & WSL  
