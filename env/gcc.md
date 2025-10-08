@@ -16,4 +16,8 @@
 
 ```Intel Core AVX-2 (Haswell)  -march=core-avx2```
 
+
+### Compiling NVIDIA driver for kernel 6.14.x
+`export CC+=" -std=gnu17"`
+
 Source: [GCC 4.7 patch](http://www.linuxforge.net/docs/linux/linux-gcc.php) from linuxforge.net
