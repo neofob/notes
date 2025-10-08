@@ -11,9 +11,9 @@
 ## Installation
 1. Install based OS of your choice: Ubuntu, CachyOS..etc
 2. Install these packages
-  2.1 Docker
-  2.2 [`docker-compose`][1]
-  2.3 `git`
+  * Docker
+  * [`docker-compose`][1]
+  * `git`
 
 ## Get birdnet-go and spin it up
 ```bash
@@ -44,5 +44,5 @@ docker-compose restart birdnet-go
 Now your `birdnet-go` will listen to the sound from the selected microphone and ID the bird.
 
 
-[1]: https://github.com/docker/compose/release
+[1]: https://github.com/docker/compose/releases
 [2]: https://github.com/tphakala/birdnet-go
