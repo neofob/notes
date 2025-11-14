@@ -17,6 +17,7 @@ Now I'm scraping metrics, hollow schemes.
 Deployed in clouds, lost in queues,
 Not the code I’d choose, not the life I’d use.
 
+[solo piano]
 [solo harmonica]
 
 [Verse 2]
@@ -38,9 +39,22 @@ Not the code I’d choose, not the life I’d use.
 [solo guitar]
 ```
 
-### Prompt
+### Prompt 0
 ```
 raw, acoustic guitar, rap, acoustic, deep husky female vocals,
 duet, ballad, acoustic ballad, unpolished, intimate, no drum,
 light grand piano background, 50bpm
 ```
+
+### Prompt 1
+```
+raw, intimate,unpolished in the best way, recorded in empty room,
+warm reverb, gentle vibrato, finger picked guitar with light percussion,
+layered harmonies in the chorus, scratchy deep husky male vocals,
+deep husky female vocal, duet, rap, soft rock ballad, acoustic-driven,
+50 bpm, light grand piano background
+```
+
+### Links
+* https://suno.com/s/AYLlDvWc2AGdqgb3
+* https://suno.com/s/znifgIIZdDSmq0Qa

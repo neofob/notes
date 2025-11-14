@@ -17,6 +17,8 @@ Pipelines deployed, but my heart feels fake.
 The dream I chased, now a ghost in view,
 Debugging blues, oh, I wanted more than you.
 
+[Interlude: Melancholic harmonica Solo]
+
 [Verse 2]
 Fault-tolerance fantasies, they kept me alive,
 HPC code—where ambition would thrive.
@@ -32,7 +34,23 @@ Now I'm scrapping metrics, no actions to take,
 Pipelines deployed, but my heart feels fake.
 The dream I chased, now a ghost in view,
 Debugging blues, oh, I wanted more than you.
+
+[Solo guitar crying]
+
 ```
+
+### Prompt
+```
+raw, intimate,unpolished in the best way, recorded in empty room,
+warm reverb, gentle vibrato, finger picked guitar with light percussion,
+layered harmonies in the chorus, warm deep husky male vocals,
+deep husky female vocal, duet, rap, soft rock ballad, acoustic-driven,
+50 bpm, light grand piano background
+```
+
+### Links
+* https://suno.com/s/JP0iAW9oUWnxAEoN
+* https://suno.com/s/UzVU7eHUBM0UALow
 
 ### Reference
 * Suno: https://suno.com/s/COFMu0TNdYBUGiwH

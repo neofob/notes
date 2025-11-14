@@ -17,6 +17,8 @@ Scrapping metrics, chasing numbers, feeling through and through
 I’m not the spark, I’m not the code, I’m just a passing view
 Oh, code and coffee blues
 
+[Interlude: Melancholic harmonica Solo]
+
 [Verse 2]
 Fault-tolerant ambition, high performance highs
 Burnout in the trenches, no time to ask why
@@ -32,12 +34,24 @@ But now I’m here, deploying dreams I never drew
 Scrapping metrics, chasing numbers, feeling through and through
 I’m not the spark, I’m not the code, I’m just a passing view
 Oh, code and coffee blues
+
+[solo]
 ```
 
 ### Prompt
 ```
-fingerpicked guitar with light percussion, layered harmonies in the chorus, warm male vocals, rap, soft rock ballad, acoustic-driven
+raw, intimate,unpolished in the best way, recorded in empty room,
+warm reverb, gentle vibrato, finger picked guitar with light percussion,
+layered harmonies in the chorus, warm deep husky male vocals,
+deep husky female vocal, duet, rap, soft rock ballad, acoustic-driven,
+50 bpm, light grand piano background
 ```
+
+### Links
+* https://suno.com/s/LxZs9WzOFMMheBaV (published)
+* https://suno.com/s/kMskbCDkvMvbgbrl
+* https://suno.com/s/3Z5Mptu4N4KUB0lP
+* https://suno.com/s/0q0JFIN2Q1xDruLD
 
 # Reference
 * Suno: https://suno.com/song/514e6515-e535-4a9b-96bb-36fb4da7b58e

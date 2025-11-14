@@ -43,6 +43,12 @@ Burnt out, riding these DevOps blues
 
 ### Prompt
 ```
-soft rock ballad, acoustic guitar riffs with occasional lead embellishments for catchiness,
-warm reverb, Stevie Ray Vaugh guitar cry, warm bass, rap, light percussion, deep husky male vocals, duet, 50bpm
+soft rock ballad, acoustic guitar riffs with occasional lead embellishments
+for catchiness, warm reverb, Stevie Ray Vaugh guitar cry, warm bass, rap,
+light percussion, deep husky male vocals, deep husky female vocals, duet,
+50bpm, light grand piano in background
 ```
+
+### Links
+* https://suno.com/s/S889swzeBJqZolrM
+* https://suno.com/s/UTvDgfRepOT16Z1T (published)
