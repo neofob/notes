@@ -83,3 +83,36 @@ chains/Shaker/bones/Tambourine for percussive textures, [Outro]
 fades like dying fire
 ```
 * https://suno.com/song/9a0c509c-2180-4b0c-adbf-538f32bd9cd2
+
+
+### Styles
+```
+acoustic blues slushwave
+acoustic grime
+roots reggae flamenco
+boom bap celtic
+blues soulful electric
+```
+
+### Suno
+```
+Structural tags
+[Intro], [Verse], [Chorus], [Bridge], [Outro]
+Vocal and style keywords
+[Male singer], [Female singer], [Child voice]
+[Whispers], [Echoing vocals]
+[Spoken word]
+[Acoustic guitar], [Orchestral strings]
+[Synth pads], [Lo-fi], [Jazz saxophone solo]
+[Blues], [Electropop], [Distorted electric guitar]
+[Poppy], [Hypertechnical]
+Mood and theme keywords
+Commonly overused phrases: "neon lights," "chasing dreams," "concrete jungle," "break the chains," "echoes of"
+More specific phrases: "rust," "dust," "velvet," "ghost"
+Other descriptive words: "bittersweet," "kooky," "unconventional," "deranged"
+```
+
+### Hinter uns das Land
+```
+Neo-classical ballad, female vocals (contralto), e-minor, melancholic, piano, strings, cello, sparse, 55 BPM, 1940s, war, loss
+```

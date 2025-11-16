@@ -2,10 +2,7 @@
 
 ### Lyric
 ```
-[introduction]
-[solo]
-
-[Verse]
+[Verb 1]
 Half a word in my mouth
 Half a word in the air
 Lost the bridge
@@ -25,9 +22,9 @@ I can't see the sun
 Chasing something
 But I’m always undone
 
-[solo flute]
+[Interlude Melancholic Cello Solo]
 
-[Verse 2]
+[Verb 2]
 Held a camera like it could hold my soul
 Snapped the light but it left a hole
 Tried to dance
@@ -51,7 +48,7 @@ I can't see the sun
 Chasing something
 But I’m always undone
 
-[Bridge]
+[Outro]
 Failed start-ups
 Broken frames
 Lost in the dark
@@ -59,12 +56,14 @@ I don’t know my name
 Every step forward feels like a fall
 A language of walls
 No words at all
-
-[solo]
 ```
 
 
 ### Prompt
 ```
-tone, melancholy tone, catchy guitar riffs, melancholy, rock blues, rock, deep husky male vocal, duet, blues, 50 bpm.
+At 55 bpm, this melancholy ballad opens with warm acoustic nylon guitar
+fingerpicking and subtle cello swells, delicately enhanced by gentle plucks
+and soft grand piano. Deep husky male and raspy female voices intertwine in
+duet, supported by tasteful rock-blues touches, with warm reverb blending
+all elements into an intimate, soulful atmosphere.
 ```
